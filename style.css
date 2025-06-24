@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+}
+
+nav {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+#hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f0e5ff;
+}
+
+section {
+  padding: 2rem;
+}
+
+#skills ul {
+  list-style: square;
+  padding-left: 2rem;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+#projects {
+  background-color: #fff0f5;
+  padding: 2rem;
+}
+
+.project {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  box-shadow: 2px 2px 6px #eee;
+}
+
+.project h3 {
+  color: #6c5ce7;
+}
+
+#contact {
+  background-color: #e0f7fa;
+  padding: 2rem;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 0.7rem 1.5rem;
+  background-color: #6c5ce7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5a4bdc;
+}
+
