@@ -1,4 +1,5 @@
 # Personal Portfolio Website
+A simple and responsive portfolio website built using HTMl and CSS.
 
 ## 🔧 Tech Used
 - HTML
@@ -20,3 +21,4 @@
 
 ## ✨ Purpose
 This is my first personal project to learn HTML/CSS and showcase my journey!
+
